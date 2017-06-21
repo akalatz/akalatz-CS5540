@@ -27,6 +27,7 @@
     <EditText
         android:id="@+id/et_search_box"
         android:layout_width="match_parent"
+        android:visibility="gone"
         android:layout_height="wrap_content"
         android:hint="Please enter your query and press search for results"
         android:textSize="22sp" />
