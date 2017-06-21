@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name">NewsApp</string>
-    <string name="search">Search</string>
-    <string name="error_message">
-        Failed to get results. Please try again.
-    </string>
+    <string name="app_name">LinearDemo</string>
+    <string name="hint">Enter your text </string>
+    <string name="Search_string">Search</string>
 </resources>
